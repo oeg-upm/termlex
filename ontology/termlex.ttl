@@ -18,7 +18,7 @@
                                                   <http://www.w3.org/ns/lemon/vartrans> ;
                                       prof:isProfileOf <http://www.w3.org/ns/lemon/ontolex> ;
                                       dct:title "Termlex Ontology"@en ;
-                                      dcterms:contributor "Patricia Martín Chozas", "Víctor Rodríguez Doncel", "Thierry Declerck", "Elena Montiel Ponsoda".
+                                      dcterms:contributor "Patricia Martín Chozas", "Víctor Rodríguez Doncel", "Thierry Declerck", "Elena Montiel Ponsoda" ;
                                       dct:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
                                       dcterms:created "2022-01-11" ;
                                       rdfs:label "An Ontolex-lemon extension to represent terminological data"@en .
