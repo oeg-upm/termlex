@@ -5,5 +5,5 @@ The work started in October 2020 as part of the NexusLinguarum Action (http://ne
 
 See the temptative Termlex core diagram: 
 <p align="center">
-<img src="https://github.com/Pret-a-LLOD/termitup/blob/master/static/images/termitup_arch.png" width="60%" />
+<img src="https://github.com/oeg-upm/termlex/termlex_core.png" width="60%" />
 </p>
